@@ -15,7 +15,7 @@
 - React.js
 
 ## 📚 Blogs
-I believe in sharing the stuff I know a little. Check out my articles on [Medium](https://medium.com/@bhawana-gaur)
+I believe in sharing the stuff I know a little. Check out my articles on [Medium](https://medium.com/@bhawana-gaur).
 
 ## 📫 Let's Connect
 - Medium: [@bhawana-gaur](https://medium.com/@bhawana-gaur)
